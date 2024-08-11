@@ -1,3 +1,5 @@
+import 'zone.js';
+
 import { initFederation } from '@softarc/native-federation';
 
 (async () => {
